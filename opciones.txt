@@ -1,9 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 a
+=======
+hay muchas opciones
+>>>>>>> e542f23e1f6d04c51d74a9333bf487da7acb3bdc
 =======
 <<<<<<< HEAD
 archivo modificado por líder
 =======
 hay muchas opciones
 >>>>>>> a9605a7b8aebaa3849c04d2d8b1582b46e8cd416
+<<<<<<< HEAD
 >>>>>>> a5d26b3b1d646bfefda5cc4c4750080dff850949
+=======
+>>>>>>> 843218849b23953f31d2d9352057eef5136e0625
+>>>>>>> e542f23e1f6d04c51d74a9333bf487da7acb3bdc
