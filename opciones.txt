@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 archivo modificado por líder
+=======
+hay muchas opciones
+>>>>>>> a9605a7b8aebaa3849c04d2d8b1582b46e8cd416
