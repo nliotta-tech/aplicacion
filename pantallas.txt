@@ -1,5 +1,2 @@
 hay 5 pantallas
-<<<<<<< HEAD
-mas una linea
-=======
->>>>>>> 843218849b23953f31d2d9352057eef5136e0625
+hay 20 pantallas
