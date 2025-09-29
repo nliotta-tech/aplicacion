@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 a
+=======
+<<<<<<< HEAD
+archivo modificado por líder
+=======
+hay muchas opciones
+>>>>>>> a9605a7b8aebaa3849c04d2d8b1582b46e8cd416
+>>>>>>> a5d26b3b1d646bfefda5cc4c4750080dff850949

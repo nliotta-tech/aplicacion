@@ -1,1 +1,11 @@
+<<<<<<< HEAD
 a
+=======
+medialunas
+pan
+pan lactal
+empanadas
+
+
+LIDER CRACK
+>>>>>>> a5d26b3b1d646bfefda5cc4c4750080dff850949
